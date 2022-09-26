@@ -1,0 +1,91 @@
+#4.0# "HM-Seb-Mtx" 8191 0 0 63 1                                                                                               
+/mtx/01/preamp OFF
+/mtx/01/config "RECORD MTX" 56 WH
+/mtx/01/eq OFF
+/mtx/01/eq/1 LShv 79.6 +0.00 2.0
+/mtx/01/eq/2 PEQ 158.9 +0.00 2.0
+/mtx/01/eq/3 PEQ 496.6 +0.00 2.0
+/mtx/01/eq/4 PEQ 1k97 +0.00 2.0
+/mtx/01/eq/5 PEQ 5k02 +0.00 2.0
+/mtx/01/eq/6 HShv 10k02 +0.00 2.0
+/mtx/01/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 100 OFF
+/mtx/01/dyn/filter OFF 3.0 990.9
+/mtx/01/insert OFF PRE OFF
+/mtx/01/grp %00000000 %000000
+/mtx/01/mix/fader   0.0
+/mtx/01/mix/on ON
+/mtx/02/preamp OFF
+/mtx/02/config "RECORD MTX" 57 WH
+/mtx/02/eq OFF
+/mtx/02/eq/1 LShv 79.6 +0.00 2.0
+/mtx/02/eq/2 PEQ 158.9 +0.00 2.0
+/mtx/02/eq/3 PEQ 496.6 +0.00 2.0
+/mtx/02/eq/4 PEQ 1k97 +0.00 2.0
+/mtx/02/eq/5 PEQ 5k02 +0.00 2.0
+/mtx/02/eq/6 HShv 10k02 +0.00 2.0
+/mtx/02/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 100 OFF
+/mtx/02/dyn/filter OFF 3.0 990.9
+/mtx/02/insert OFF PRE OFF
+/mtx/02/grp %00000000 %000000
+/mtx/02/mix/fader   0.0
+/mtx/02/mix/on ON
+/mtx/03/preamp OFF
+/mtx/03/config "FRONT FILL L" 67 WH
+/mtx/03/eq OFF
+/mtx/03/eq/1 LShv 79.6 +0.00 2.0
+/mtx/03/eq/2 PEQ 158.9 +0.00 2.0
+/mtx/03/eq/3 PEQ 496.6 +0.00 2.0
+/mtx/03/eq/4 PEQ 1k97 +0.00 2.0
+/mtx/03/eq/5 PEQ 5k02 +0.00 2.0
+/mtx/03/eq/6 HShv 10k02 +0.00 2.0
+/mtx/03/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 100 OFF
+/mtx/03/dyn/filter OFF 3.0 990.9
+/mtx/03/insert ON POST OFF
+/mtx/03/grp %00000000 %000000
+/mtx/03/mix/fader   0.0
+/mtx/03/mix/on ON
+/mtx/04/preamp OFF
+/mtx/04/config "FRONT FILL R" 67 WH
+/mtx/04/eq OFF
+/mtx/04/eq/1 LShv 79.6 +0.00 2.0
+/mtx/04/eq/2 PEQ 158.9 +0.00 2.0
+/mtx/04/eq/3 PEQ 496.6 +0.00 2.0
+/mtx/04/eq/4 PEQ 1k97 +0.00 2.0
+/mtx/04/eq/5 PEQ 5k02 +0.00 2.0
+/mtx/04/eq/6 HShv 10k02 +0.00 2.0
+/mtx/04/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 100 OFF
+/mtx/04/dyn/filter OFF 3.0 990.9
+/mtx/04/insert ON POST OFF
+/mtx/04/grp %00000000 %000000
+/mtx/04/mix/fader   0.0
+/mtx/04/mix/on ON
+/mtx/05/preamp OFF
+/mtx/05/config "" 67 WH
+/mtx/05/eq OFF
+/mtx/05/eq/1 LShv 79.6 +0.00 2.0
+/mtx/05/eq/2 PEQ 158.9 +0.00 2.0
+/mtx/05/eq/3 PEQ 496.6 +0.00 2.0
+/mtx/05/eq/4 PEQ 1k97 +0.00 2.0
+/mtx/05/eq/5 PEQ 5k02 +0.00 2.0
+/mtx/05/eq/6 HShv 10k02 +0.00 2.0
+/mtx/05/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 100 OFF
+/mtx/05/dyn/filter OFF 3.0 990.9
+/mtx/05/insert OFF PRE OFF
+/mtx/05/grp %00000000 %000000
+/mtx/05/mix/fader  +0.3
+/mtx/05/mix/on ON
+/mtx/06/preamp OFF
+/mtx/06/config "SUBS" 67 WH
+/mtx/06/eq ON
+/mtx/06/eq/1 LCut 41.3 +0.00 2.0
+/mtx/06/eq/2 PEQ 158.9 +0.00 2.0
+/mtx/06/eq/3 PEQ 69.3 +3.00 2.0
+/mtx/06/eq/4 PEQ 195.4 -3.00 2.0
+/mtx/06/eq/5 PEQ 5k02 +0.00 2.0
+/mtx/06/eq/6 HCut 232.3 +0.00 2.0
+/mtx/06/dyn ON COMP RMS LOG -42.0 3.0 1 3.00 30 0.02  45 POST 100 OFF
+/mtx/06/dyn/filter OFF 3.0 990.9
+/mtx/06/insert OFF PRE OFF
+/mtx/06/grp %00000000 %000000
+/mtx/06/mix/fader  -0.3
+/mtx/06/mix/on ON
